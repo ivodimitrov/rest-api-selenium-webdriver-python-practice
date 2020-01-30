@@ -16,7 +16,7 @@ Feature: DuckDuckGo Instant Answer API
       | platypus |
 
     Examples: Fruits
-      | phrase    |
-      | peach     |
-      | pineapple |
-      | papaya    |
+      | phrase     |
+      | peach      |
+      | pineapple  |
+      | papaya     |

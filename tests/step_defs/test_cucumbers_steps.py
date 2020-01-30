@@ -2,15 +2,18 @@ from pytest_bdd import scenarios, parsers, given, when, then
 
 from cucumbers import CucumberBasket
 
+
 EXTRA_TYPES = {
     'Number': int,
 }
+
 
 CONVERTERS = {
     'initial': int,
     'some': int,
     'total': int,
 }
+
 
 scenarios('../features/cucumbers.feature', example_converters=CONVERTERS)
 

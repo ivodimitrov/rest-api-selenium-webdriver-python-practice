@@ -8,9 +8,11 @@ import requests
 
 from pytest_bdd import scenarios, given, then, parsers
 
+
 # Shared Variables
 
 DUCKDUCKGO_API = 'https://api.duckduckgo.com/'
+
 
 # Scenarios
 
