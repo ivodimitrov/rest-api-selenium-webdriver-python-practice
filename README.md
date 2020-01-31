@@ -1,4 +1,4 @@
-## python-testing
+## Rest API and Selenium Webdriver with Python Pactice
 
 This repository contains example code for the Behavior-Driven Python with pytest-bdd framework. 
 
